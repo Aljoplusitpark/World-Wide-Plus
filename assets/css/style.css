@@ -1241,6 +1241,7 @@ q {font-style: italic;}
 
 .technology{
   padding: 20px 160px 20px 160px;
+  border: 1px ;
 }
 
 #techpara{
@@ -6636,13 +6637,35 @@ q {font-style: italic;}
   overflow: hidden;
 }
 .cs-team.cs-style1 .cs-member_thumb img {
-  width: 100%;
+   width: 100%; 
+  
+  /* max-width: fit-content; */
+  justify-content: center center;
   position: relative;
   z-index: 1;
   border-radius: inherit;
   -webkit-transition: all 0.8s ease;
   transition: all 0.8s ease;
 }
+
+.cs-team.cs-style1 .cs-member_thumb1 {
+  border-radius: 15px;
+  position: relative;
+  overflow: inherit;
+  overflow: hidden;
+}
+.cs-team.cs-style1 .cs-member_thumb1 img {
+  /* width: 100%; */
+  height: 250px;
+  max-width: fit-content;
+  justify-content: center center;
+  position: relative;
+  z-index: 1;
+  border-radius: inherit;
+  -webkit-transition: all 0.8s ease;
+  transition: all 0.8s ease;
+}
+
 .cs-team.cs-style1 .cs-member_overlay {
   position: absolute;
   height: 100%;
@@ -6699,6 +6722,11 @@ q {font-style: italic;}
   opacity: 1;
 }
 .cs-team.cs-style1:hover .cs-member_thumb img {
+  -webkit-transform: scale(1.06) translateY(8px);
+          transform: scale(1.06) translateY(8px);
+}
+
+.cs-team.cs-style1:hover .cs-member_thumb1 img {
   -webkit-transform: scale(1.06) translateY(8px);
           transform: scale(1.06) translateY(8px);
 }
