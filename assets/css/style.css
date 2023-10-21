@@ -1178,7 +1178,7 @@ label {
 
 .slideshow-container .mySlides .h3{
   font-size: 30px;
-  color: #ec6600;
+  color: #ff3399;
 }
 
 /* Next & previous buttons */
@@ -1240,8 +1240,9 @@ q {font-style: italic;}
 .author {color: cornflowerblue;}
 
 .technology{
-  padding: 20px 160px 20px 160px;
-  border: 1px ;
+  padding: 50px 160px 50px 160px;
+  /* box-shadow: 0px 0px 10px 0px rgba(0,255,255,0.7); 
+  border-radius: 20px; */
 }
 
 #techpara{
