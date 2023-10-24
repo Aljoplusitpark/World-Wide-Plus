@@ -19,8 +19,8 @@
                   <li class="menu-item-has-children">
                     <a href="about.php">About Us</a>
                     <ul>
-                      <li><a href="#">Portfolio</a></li>
-                      <li><a href="#">How To Reach</a></li>
+                      <!-- <li><a href="#">Portfolio</a></li> -->
+                      <li><a href="contact.php">How To Reach</a></li>
                       <li><a href="#">Our Leadership</a></li>
                       <li><a href="#">Carriers</a></li>
                       <li><a href="#">Downloads</a></li>
@@ -50,7 +50,7 @@
                     <a href="#">Organization</a>
                     <ul>
                       <li><a href="#">Type 07</a></li>
-                      <li><a href="#">Wus</a></li>
+                      <li><a href="wus.php">Wus</a></li>
                       <li><a href="#">DSF</a></li>
                       <li><a href="#">De Schooling</a></li>
                       <li><a href="#">Langaa</a></li>
@@ -68,7 +68,7 @@
                   </li>
                   <div class="cs-main_header_right">
                     <div class="cs-toolbox">
-                      <button class="btn" style="color:white;"><a href="contact.php">Lets Talk</a></button>
+                      <button class="btn" style="color:white;"><a href="">Lets Talk</a></button>
                     </div>
                   </div>
                 </ul>
