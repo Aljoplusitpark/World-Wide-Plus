@@ -6,7 +6,7 @@
               <div class="cs-footer_item">
                 <div class="cs-text_widget">
                   <img src="assets/img/logoo.png" alt="Thumb">
-                  <p style="text-align:justify;"> A space to celebrate your life, technology, technocracy, friendship, passion and more.  </p>
+                  <p style="text-align:justify;"> A space to celebrate your life, technology, technocracy, friendship, passion and more. We promote security and confidence for your imaginations by creating differentiated Insights  </p>
                 </div>
                 <div class="cs-social_btns cs-style1">
                   <a href="#" class="cs-center" target="-blank">
