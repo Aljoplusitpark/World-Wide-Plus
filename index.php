@@ -346,9 +346,9 @@
   <div class="container">
     <div class="cs-portfolio_1_heading">
       <div class="cs-section_heading ">
-        <h2 class="cs-section_title">Our Services</h2>
+        <h2 class="cs-section_title">Our Services </h2>
         <p>Empowering Innovation, Transforming Solutions: Your Trusted Partner in Software Excellence.</p>
-        <!-- <h3 class="cs-section_subtitle" >Empowering Innovation, Transforming Solutions: Your Trusted Partner in Software Excellence.</h3> -->
+        <!-- <h3 class="cs-section_subtitle" >Empowering Innovation, Transforming Solutions: Your Trusted Partner in Software Excellence.</h3>  -->
       </div>
       <!-- <div class="cs-isotop_filter cs-style1">
         <ul class="cs-mp0 cs-center">
