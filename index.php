@@ -50,32 +50,26 @@
         
         
         </div> -->
-      <div class="slide two parallax-effect" style="background-image: url('assets/img/bg3.jpeg');">
-        <!-- <h1>Slide 2</h1> -->
-        </div>
-      <!-- <div class="slide three parallax-effect">
-        <h1>Slide 3</h1>
-        </div>
-      <div class="slide four parallax-effect">
-        <h1>Slide 4</h1>
-        </div>
-      <div class="slide five parallax-effect">
-        <h1>Slide 5</h1>
+      <!-- <div class="" style="background-repeat: no-repeat; background-size: cover; background-image: url('assets/img/flo.jpeg');">
+        <h1>Slide 2</h1>
         </div> -->
-      <div class="labels">
+      <video autoplay controls loop muted style="width:1550px;">
+        <source src="new.mp4" type="video/mp4" playsinline playsinline >
+        
+      </video>
+      <!-- <div class="labels">
         <label for="slide-btn-1"></label>
         <label for="slide-btn-2"></label>
         <label for="slide-btn-3"></label>
-        <!-- <label for="slide-btn-4"></label>
-        <label for="slide-btn-5"></label> -->
-      </div>
+        
+      </div> -->
     </div>
     <script type="text/javascript" src="script.js"></script>
     
        
 
 
-      <div class="firework" id="firework1">
+      <!-- <div class="firework" id="firework1">
         <div class="explosion"></div>
         <div class="explosion"></div>
         <div class="explosion"></div>
@@ -131,10 +125,10 @@
         <div class="explosion"></div>
         <div class="explosion"></div>
         <div class="explosion"></div>
-      </div>
+      </div> -->
+      <!-- <div class="cs-shape_1"></div>
       <div class="cs-shape_1"></div>
-      <div class="cs-shape_1"></div>
-      <div class="cs-shape_1"></div>
+      <div class="cs-shape_1"></div> -->
       <div class="container">
         <div class="cs-hero_text">
           
