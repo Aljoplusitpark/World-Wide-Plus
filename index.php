@@ -46,10 +46,10 @@
       <input type="radio" name="carousel" id="slide-btn-3" class="slide-btn" onclick="setInt();" />
       <input type="radio" name="carousel" id="slide-btn-4" class="slide-btn" onclick="setInt();" />
       <input type="radio" name="carousel" id="slide-btn-5" class="slide-btn" onclick="setInt();" />
-      <div class="slide one parallax-effect" style="background-image: url('assets/img/bg2.jpeg');">
-        <!-- <h1>Slide 1</h1> -->
+      <!-- <div class="slide one parallax-effect" style="background-image: url('assets/img/bg2.jpeg');">
         
-        </div>
+        
+        </div> -->
       <div class="slide two parallax-effect" style="background-image: url('assets/img/bg3.jpeg');">
         <!-- <h1>Slide 2</h1> -->
         </div>
