@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="style.scss">
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-    <link rel="stylesheet" type="text/css" href="hero.css">
+    <!-- <link rel="stylesheet" type="text/css" href="hero.css"> -->
 
   </head>
 
