@@ -75,68 +75,11 @@
        
 
 
-      <div class="firework" id="firework1">
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-      </div>
-      <div class="firework" id="firework2">
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-      </div>
-      <div class="firework" id="firework3">
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-      </div>
-
-      <div class="firework" id="firework4">
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-        <div class="explosion"></div>
-      </div>
       <div class="cs-shape_1"></div>
       <div class="cs-shape_1"></div>
       <div class="cs-shape_1"></div>
       <div class="container">
-        <div class="cs-hero_text">
+        <!-- <div class="cs-hero_text">
           
           <h1 class="cs-hero_title wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">  <br> </h1>
           <div class="cs-hero_info">
@@ -153,7 +96,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <!-- <div class="cs-hero_social_wrap cs-primary_font cs-primary_color">
         <div class="cs-hero_social_title">Follow Us</div>
         <ul class="cs-hero_social_links">
@@ -169,14 +112,13 @@
     </div>
     <!-- End Hero -->
     <!-- Start FunFact -->
-    <section>
+    <!-- <section>
       <div class="container">
         <div class="cs-funfact_wrap cs-type1">
           <div class="cs-funfact_shape" data-src="assets/img/funfact_shape_bg.svg"></div>
           <div class="cs-funfact_left">
             <div class="cs-funfact_heading">
               <h2>Forging Ahead in Our Tale of Accomplishments!</h2>
-              <!-- <p> Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis. </p> -->
             </div>
           </div>
           <div class="cs-funfact_right">
@@ -221,10 +163,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- End FunFact -->
     <!-- Start Service Section -->
-    <section id="service" style="background-image: url('assets/img/sbg6.png');  background-size: cover;
+    <!-- <section id="service" style="background-image: url('assets/img/sbg6.png');  background-size: cover;
     background-repeat: no-repeat; background-position: bottom center;">
       <div class="cs-height_150 cs-height_lg_80"></div>
       <div class="container" >
@@ -306,8 +248,151 @@
         </div>
       </div>
       <div class="cs-height_150 cs-height_lg_50"></div>
-    </section>
+    </section> -->
     <!-- End Service Section -->
+
+<!-- about us  -->
+
+<div class="responsive-container-block bigContainer">
+  <div class="responsive-container-block Container bottomContainer">
+    <div class="allText bottomText">
+      <p class="text-blk headingText">
+        About Us
+      </p>
+      <p class="text-blk subHeadingText">
+        We build to your bespoke
+      </p>
+      <p class="text-blk description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fermentum pulvinar ullamcorper suspendisse ac eget. Pellentesque tempus leo in ullamcorper quis vestibulum ligula elementum ut. Congue in dignissim tincidunt ut dolor eu. Mi, eget posuere vitae sed purus nisl lorem.
+      </p>
+      <a>
+        <button class="explore" onclick="window.location.href = 'about.html';">
+          View More
+        </button>
+      </a>
+    </div>
+    <div class="videoContainer">
+      <iframe allowfullscreen="allowfullscreen" class="mainVideo" controls="controls" src="https://www.youtube.com/embed/svg%3E?autoplay=1">
+      </iframe>
+      <img class="dotsImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/cw3.svg" style="color: red;">
+    </div>
+  </div>
+</div> 
+
+<!-- end about us -->
+
+    <br><br><br><br><br>
+  <!-- Start Portfolio -->
+  <div class="container">
+    <div class="cs-portfolio_1_heading">
+      <div class="cs-section_heading cs-style1">
+        
+        <h2 class="cs-section_title">Our Services</h2>
+        <h3 class="cs-section_subtitle">Empowering Innovation, Transforming Solutions: Your Trusted Partner in Software Excellence.</h3>
+      </div>
+      <div class="cs-isotop_filter cs-style1">
+        <ul class="cs-mp0 cs-center">
+          <li class="active"><a href="#" data-filter="*">All</a></li>
+          <li><a href="#" data-filter=".web_design">Web Design</a></li>
+          <li><a href="#" data-filter=".ui_ux_design">UI/UX Design</a></li>
+          <li><a href="#" data-filter=".mobile_apps">Mobile Apps</a></li>
+          <li><a href="#" data-filter=".logo_design">Logo Design</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="cs-height_90 cs-height_lg_15"></div>
+    <div class="cs-isotop cs-style1 cs-isotop_col_3 cs-has_gutter_24">
+      <div class="cs-grid_sizer"></div>
+      <div class="cs-isotop_item web_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/web.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <!-- <h2 class="cs-portfolio_title">WEB</h2> -->
+            <div class="cs-portfolio_subtitle">WebContent</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/ui.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <!-- <h2 class="cs-portfolio_title">Colorful Art Work</h2> -->
+            <div class="cs-portfolio_subtitle">Digitalcontent</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item mobile_apps">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <!-- <h2 class="cs-portfolio_title">Colorful Art Work</h2> -->
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item cs-w66 logo_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/dig.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/dsf.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item web_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/des.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item cs-w66 logo_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/web3.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+    </div>
+    <div class="cs-height_90 cs-height_lg_40"></div>
+    <div class="text-center">
+      <a href="#" class="cs-text_btn">
+        <span>Load More</span>
+        <svg width="26" height="12" viewBox="0 0 26 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M25.5303 6.53033C25.8232 6.23744 25.8232 5.76256 25.5303 5.46967L20.7574 0.696699C20.4645 0.403806 19.9896 0.403806 19.6967 0.696699C19.4038 0.989593 19.4038 1.46447 19.6967 1.75736L23.9393 6L19.6967 10.2426C19.4038 10.5355 19.4038 11.0104 19.6967 11.3033C19.9896 11.5962 20.4645 11.5962 20.7574 11.3033L25.5303 6.53033ZM0 6.75H25V5.25H0V6.75Z" fill="currentColor"></path>
+        </svg>                
+      </a>
+    </div>
+  </div>
+  <!-- End Portfolio -->
+
     <!-- Start Latest Project -->
     <section >
       <div class="container" >
