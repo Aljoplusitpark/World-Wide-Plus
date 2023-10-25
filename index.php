@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="style.scss">
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-  
+    <link rel="stylesheet" type="text/css" href="hero.css">
 
   </head>
 
@@ -57,6 +57,8 @@
         <source src="new.mp4" type="video/mp4" playsinline playsinline >
         
       </video>
+      <!-- <h1>THIS IS A RIVER.</h1> -->
+  <!-- <h2>How majestic.</h2> -->
       <!-- <div class="labels">
         <label for="slide-btn-1"></label>
         <label for="slide-btn-2"></label>
@@ -317,7 +319,7 @@
       <p class="text-blk subHeadingText">
       
       </p>
-      <p class="text-blk description">
+      <p class="text-blk description" style="text-align:justify;">
       A space to celebrate your life, technology, technocracy, friendship, passion and more
       We promote security and confidence for your imaginations by creating differentiated Insights.
       At Plus IT Business Park, we are passionate about creating innovative software solutions that empower businesses and individuals 
@@ -343,12 +345,12 @@
   <!-- Start Portfolio -->
   <div class="container">
     <div class="cs-portfolio_1_heading">
-      <div class="cs-section_heading cs-style1">
-        
+      <div class="cs-section_heading ">
         <h2 class="cs-section_title">Our Services</h2>
-        <h3 class="cs-section_subtitle">Empowering Innovation, Transforming Solutions: Your Trusted Partner in Software Excellence.</h3>
+        <p>Empowering Innovation, Transforming Solutions: Your Trusted Partner in Software Excellence.</p>
+        <!-- <h3 class="cs-section_subtitle" >Empowering Innovation, Transforming Solutions: Your Trusted Partner in Software Excellence.</h3> -->
       </div>
-      <div class="cs-isotop_filter cs-style1">
+      <!-- <div class="cs-isotop_filter cs-style1">
         <ul class="cs-mp0 cs-center">
           <li class="active"><a href="#" data-filter="*">All</a></li>
           <li><a href="#" data-filter=".web_design">Web Design</a></li>
@@ -356,7 +358,7 @@
           <li><a href="#" data-filter=".mobile_apps">Mobile Apps</a></li>
           <li><a href="#" data-filter=".logo_design">Digital Marketing</a></li>
         </ul>
-      </div>
+      </div> -->
     </div>
     <div class="cs-height_90 cs-height_lg_15"></div>
     <div class="cs-isotop cs-style1 cs-isotop_col_3 cs-has_gutter_24">
