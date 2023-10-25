@@ -35,7 +35,7 @@
                       <li><a href="#">Block Chain Development</a></li>
                       <li><a href="#">Mobile App Development</a></li>
                       <li><a href="#">Digital Marketing</a></li>
-                      <li><a href="#">Digital Sales Forc</a></li>
+                      <li><a href="#">Digital Sales Force</a></li>
                       <li><a href="#">Industrial 4.O</a></li>
                       <li><a href="#">Training Program</a></li>
                       <li><a href="#">Study Tours</a></li>
