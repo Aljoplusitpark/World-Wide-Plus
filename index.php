@@ -69,6 +69,7 @@
        
 
 
+<<<<<<< HEAD
       <!-- <div class="firework" id="firework1">
         <div class="explosion"></div>
         <div class="explosion"></div>
@@ -127,10 +128,14 @@
         <div class="explosion"></div>
       </div> -->
       <!-- <div class="cs-shape_1"></div>
+=======
+      <div class="cs-shape_1"></div>
+      <div class="cs-shape_1"></div>
+>>>>>>> 4d77b3c705afaeb6002284fd67c681bc9e76a88b
       <div class="cs-shape_1"></div>
       <div class="cs-shape_1"></div> -->
       <div class="container">
-        <div class="cs-hero_text">
+        <!-- <div class="cs-hero_text">
           
           <h1 class="cs-hero_title wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">  <br> </h1>
           <div class="cs-hero_info">
@@ -147,7 +152,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <!-- <div class="cs-hero_social_wrap cs-primary_font cs-primary_color">
         <div class="cs-hero_social_title">Follow Us</div>
         <ul class="cs-hero_social_links">
@@ -163,14 +168,13 @@
     </div>
     <!-- End Hero -->
     <!-- Start FunFact -->
-    <section>
+    <!-- <section>
       <div class="container">
         <div class="cs-funfact_wrap cs-type1">
           <div class="cs-funfact_shape" data-src="assets/img/funfact_shape_bg.svg"></div>
           <div class="cs-funfact_left">
             <div class="cs-funfact_heading">
               <h2>Forging Ahead in Our Tale of Accomplishments!</h2>
-              <!-- <p> Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis. </p> -->
             </div>
           </div>
           <div class="cs-funfact_right">
@@ -215,10 +219,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- End FunFact -->
     <!-- Start Service Section -->
-    <section id="service" style="background-image: url('assets/img/sbg6.png');  background-size: cover;
+    <!-- <section id="service" style="background-image: url('assets/img/sbg6.png');  background-size: cover;
     background-repeat: no-repeat; background-position: bottom center;">
       <div class="cs-height_150 cs-height_lg_80"></div>
       <div class="container" >
@@ -300,8 +304,154 @@
         </div>
       </div>
       <div class="cs-height_150 cs-height_lg_50"></div>
-    </section>
+    </section> -->
     <!-- End Service Section -->
+
+<!-- about us  -->
+
+<div class="responsive-container-block bigContainer">
+  <div class="responsive-container-block Container bottomContainer">
+    <div class="allText bottomText">
+      <p class="text-blk headingText">
+        About Us
+      </p>
+      <p class="text-blk subHeadingText">
+      
+      </p>
+      <p class="text-blk description">
+      A space to celebrate your life, technology, technocracy, friendship, passion and more
+      We promote security and confidence for your imaginations by creating differentiated Insights.
+      At Plus IT Business Park, we are passionate about creating innovative software solutions that empower businesses and individuals 
+      to achieve their goals. We have been at the forefront of the digital revolution, providing cutting-edge software services and 
+      products to clients worldwide.      </p>
+      <a>
+        <button class="explore" onclick="window.location.href = 'about.html';">
+          View More
+        </button>
+      </a>
+    </div>
+    <div class="videoContainer">
+      <iframe allowfullscreen="allowfullscreen" class="mainVideo" controls="controls" src="https://www.youtube.com/embed/svg%3E?autoplay=1">
+      </iframe>
+      <img class="dotsImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/cw3.svg" style="color: red;">
+    </div>
+  </div>
+</div> 
+
+<!-- end about us -->
+
+    <br><br><br><br><br>
+  <!-- Start Portfolio -->
+  <div class="container">
+    <div class="cs-portfolio_1_heading">
+      <div class="cs-section_heading cs-style1">
+        
+        <h2 class="cs-section_title">Our Services</h2>
+        <h3 class="cs-section_subtitle">Empowering Innovation, Transforming Solutions: Your Trusted Partner in Software Excellence.</h3>
+      </div>
+      <div class="cs-isotop_filter cs-style1">
+        <ul class="cs-mp0 cs-center">
+          <li class="active"><a href="#" data-filter="*">All</a></li>
+          <li><a href="#" data-filter=".web_design">Web Design</a></li>
+          <li><a href="#" data-filter=".ui_ux_design">UI/UX Design</a></li>
+          <li><a href="#" data-filter=".mobile_apps">Mobile Apps</a></li>
+          <li><a href="#" data-filter=".logo_design">Digital Marketing</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="cs-height_90 cs-height_lg_15"></div>
+    <div class="cs-isotop cs-style1 cs-isotop_col_3 cs-has_gutter_24">
+      <div class="cs-grid_sizer"></div>
+      <div class="cs-isotop_item web_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/web.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Web Development</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/ui.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+             <h2 class="cs-portfolio_title">UI/UX Design</h2> 
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item mobile_apps">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">App Development</h2> 
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item cs-w66 logo_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/dig.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Digital Marketing</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item ui_ux_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/dsf.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Digital Sales Force</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item web_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/des.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">D-Schooling</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+      <div class="cs-isotop_item cs-w66 logo_design">
+        <a href="portfolio-details.html" class="cs-portfolio cs-style1 cs-type1">
+          <div class="cs-portfolio_hover"></div>
+          <div class="cs-portfolio_bg cs-bg" data-src="assets/img/web3.jpeg"></div>
+          <div class="cs-portfolio_info">
+            <div class="cs-portfolio_info_bg cs-accent_bg"></div>
+            <h2 class="cs-portfolio_title">Web3</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
+          </div>
+        </a>
+      </div><!-- .cs-isotop_item -->
+    </div>
+    <div class="cs-height_90 cs-height_lg_40"></div>
+    <div class="text-center">
+      <a href="#" class="cs-text_btn">
+        <!-- <span>Load More</span> -->
+        <!-- <svg width="26" height="12" viewBox="0 0 26 12" fill="none" xmlns="http://www.w3.org/2000/svg"> -->
+          <!-- <path d="M25.5303 6.53033C25.8232 6.23744 25.8232 5.76256 25.5303 5.46967L20.7574 0.696699C20.4645 0.403806 19.9896 0.403806 19.6967 0.696699C19.4038 0.989593 19.4038 1.46447 19.6967 1.75736L23.9393 6L19.6967 10.2426C19.4038 10.5355 19.4038 11.0104 19.6967 11.3033C19.9896 11.5962 20.4645 11.5962 20.7574 11.3033L25.5303 6.53033ZM0 6.75H25V5.25H0V6.75Z" fill="currentColor"></path> -->
+        <!-- </svg>                 -->
+      </a>
+    </div>
+  </div><br><br><br><br>
+  <!-- End Portfolio -->
+
     <!-- Start Latest Project -->
     <section >
       <div class="container" >
@@ -367,15 +517,15 @@
         <div class="cs-pagination cs-style1"></div>
       </div>
       <!-- .cs-slider -->
-    </section>
+    <!-- </section> -->
     <!-- End Latest Project -->
-    <div class="cs-height_150 cs-height_lg_80"></div>
+    <!-- <div class="cs-height_150 cs-height_lg_80"></div> -->
     <!-- Start Awards Text -->
-    <section class="cs-shape_wrap_2" >
-      <div class="cs-shape_2">
-        <div></div>
-      </div>
-      <div class="container" >
+    <!-- <section class="cs-shape_wrap_2" > -->
+      <!-- <div class="cs-shape_2"> -->
+        <!-- <div></div> -->
+      <!-- </div> -->
+      <!-- <div class="container" >
         <div class="cs-slider cs-style1 cs-gap-24">
           <div class="cs-slider_left">
             <div class="cs-section_heading cs-style1">
@@ -395,29 +545,29 @@
                 </svg>
               </div>
             </div>
-          </div>
-          <div class="cs-slider_right">
+          </div> -->
+          <!-- <div class="cs-slider_right">
             <div class="cs-slider_container" data-autoplay="0" data-loop="1" data-speed="600" data-center="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="2" data-md-slides="2" data-lg-slides="2" data-add-slides="2">
               <div class="cs-slider_wrapper">
                 <div class="cs-slide">
-                  <div class="cs-time_line cs-style1">
+                  <div class="cs-time_line cs-style1"> -->
                     <!-- <h3 class="cs-accent_color">2023</h3> -->
-                    <a href=""><img src="assets/img/clutch_review.webp" style="width:160px; height: auto;"></a>
+                    <!-- <a href=""><img src="assets/img/clutch_review.webp" style="width:160px; height: auto;"></a> -->
                     <!-- <h2>Cluth</h2> -->
                     <!-- <p>Website of the day</p>
                     <p>Mobile exelence</p> -->
-                  </div>
+                  <!-- </div>
                   <div class="cs-height_40 cs-height_lg_30"></div>
                   <div class="cs-time_line cs-style1">
                     <a href=""><img src="assets/img/goodfirms_review.webp" style="width:160px; height: auto;"></a>
                   </div>
-                </div>
+                </div> -->
                 <!-- .cs-slide -->
-                <div class="cs-slide">
+                <!-- <div class="cs-slide">
                   <div class="cs-time_line cs-style1">
                      <a href=""><img src="assets/img/google_review.webp" style="width:160px; height: auto;"></a>
 
-                  </div>
+                  </div> -->
                   <!-- <div class="cs-height_40 cs-height_lg_30"></div>
                   <div class="cs-time_line cs-style1">
                     <h3 class="cs-accent_color">2022</h3>
@@ -425,7 +575,7 @@
                     <p>Website of the day</p>
                     <p>Mobile exelence</p>
                   </div> -->
-                </div>
+                <!-- </div> -->
                 <!-- .cs-slide -->
                 <!-- <div class="cs-slide">
                   <div class="cs-time_line cs-style1">
@@ -459,25 +609,25 @@
                   </div>
                 </div> -->
                 <!-- .cs-slide -->
-              </div>
-            </div>
+              <!-- </div>
+            </div> -->
             <!-- .cs-slider_container -->
-            <div class="cs-pagination cs-style1 cs-hidden_desktop"></div>
+            <!-- <div class="cs-pagination cs-style1 cs-hidden_desktop"></div>
           </div>
-        </div>
+        </div> -->
         <!-- .cs-slider -->
-      </div>
-    </section>
+      <!-- </div> -->
+    <!-- </section> -->
     <!-- End Awards Text -->
-    <div class="cs-height_130 cs-height_lg_70" ></div>
+    <!-- <div class="cs-height_130 cs-height_lg_70" ></div> -->
     <!-- Start General Text -->
-    <div class="container" >
-      <h2 class="cs-font_50 cs-m0 text-center cs-line_height_4 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s"> 
-       The complete end to end IT Partner for Businesses, Global brands, IT Products and Services to help companies worldwide in Web Development, Design, SEO and Services.
-      </h2>
-    </div>
+    <!-- <div class="container" > -->
+      <!-- <h2 class="cs-font_50 cs-m0 text-center cs-line_height_4 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">  -->
+       
+      <!-- </h2> -->
+    <!-- </div> -->
     <!-- End General Text -->
-    <div class="cs-height_70 cs-height_lg_70" ></div>
+    <!-- <div class="cs-height_70 cs-height_lg_70" ></div> -->
     <!-- Start Video Block -->
     <!-- <div class="container" >
       <a href="https://www.youtube.com/watch?v=VcaAVWtP48A" class="cs-video_block cs-style1 cs-video_open cs-bg" data-src="assets/img/video_bg.jpeg">
@@ -496,7 +646,7 @@
           <div class="cs-slider_heading cs-style1">
             <div class="cs-section_heading cs-style1">
               <h3 class="cs-section_subtitle wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s"> Our Team </h3>
-              <h2 class="cs-section_title">Team <br>members </h2>
+              <h2 class="cs-section_title">Team members </h2>
             </div>
             <!-- <div class="cs-slider_arrows cs-style1 cs-primary_color">
               <div class="cs-left_arrow cs-center">
