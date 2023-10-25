@@ -260,9 +260,10 @@
         About Us
       </p>
       <p class="text-blk subHeadingText">
-      A space to celebrate your life, technology,<br>technocracy,friendship,passion and more
+      
       </p>
       <p class="text-blk description">
+      A space to celebrate your life, technology, technocracy, friendship, passion and more
       We promote security and confidence for your imaginations by creating differentiated Insights.
       At Plus IT Business Park, we are passionate about creating innovative software solutions that empower businesses and individuals 
       to achieve their goals. We have been at the forefront of the digital revolution, providing cutting-edge software services and 
@@ -566,7 +567,7 @@
     <!-- Start General Text -->
     <div class="container" >
       <h2 class="cs-font_50 cs-m0 text-center cs-line_height_4 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s"> 
-       The complete end to end IT Partner for Businesses, Global brands, IT Products and Services to help companies worldwide in Web Development, Design, SEO and Services.
+       
       </h2>
     </div>
     <!-- End General Text -->
