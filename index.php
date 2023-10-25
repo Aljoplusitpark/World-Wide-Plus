@@ -69,7 +69,6 @@
        
 
 
-<<<<<<< HEAD
       <!-- <div class="firework" id="firework1">
         <div class="explosion"></div>
         <div class="explosion"></div>
