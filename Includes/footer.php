@@ -6,7 +6,7 @@
               <div class="cs-footer_item">
                 <div class="cs-text_widget">
                   <img src="assets/img/logoo.png" alt="Thumb">
-                  <p style="text-align:justify;"> The complete end to end IT Partner for Businesses, Global brands, IT Products and Services to help companies worldwide in Web Development, Design, SEO and Services.</p>
+                  <p style="text-align:justify;"> A space to celebrate your life, technology, technocracy, friendship, passion and more.  </p>
                 </div>
                 <div class="cs-social_btns cs-style1">
                   <a href="#" class="cs-center" target="-blank">
@@ -90,6 +90,7 @@
               <div class="cs-footer_item">
                 <h2 class="cs-widget_title" style="color:#cccc00;">Development</h2>
                 <ul class="cs-menu_widget cs-mp0">
+                <li><a href="#">Web3 Development</a></li>
                   <li><a href="#">Web Development</a></li>
                   <li><a href="#">E-Commerce</a></li>
                   <li><a href="#">Content Management</a></li>
@@ -105,7 +106,7 @@
                   <li><a href="#">Branding</a></li>
                   <li><a href="#">2D & 3D Annimation</a></li>
                   <li><a href="#">Business Presentation</a></li>
-                  <li><a href="#">White Board Annimation</a></li>
+                  <li><a href="#">White Board Animation</a></li>
                   <!-- <li><a href="#">B2B Listening</a></li> -->
                   <!-- <li><a href="#">Mobile App Development</a></li> -->
                 </ul>
