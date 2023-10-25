@@ -260,11 +260,13 @@
         About Us
       </p>
       <p class="text-blk subHeadingText">
-        We build to your bespoke
+      A space to celebrate your life, technology,<br>technocracy,friendship,passion and more
       </p>
       <p class="text-blk description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fermentum pulvinar ullamcorper suspendisse ac eget. Pellentesque tempus leo in ullamcorper quis vestibulum ligula elementum ut. Congue in dignissim tincidunt ut dolor eu. Mi, eget posuere vitae sed purus nisl lorem.
-      </p>
+      We promote security and confidence for your imaginations by creating differentiated Insights.
+      At Plus IT Business Park, we are passionate about creating innovative software solutions that empower businesses and individuals 
+      to achieve their goals. We have been at the forefront of the digital revolution, providing cutting-edge software services and 
+      products to clients worldwide.      </p>
       <a>
         <button class="explore" onclick="window.location.href = 'about.html';">
           View More
