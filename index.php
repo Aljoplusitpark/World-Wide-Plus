@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="style.scss">
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-    <link rel="stylesheet" type="text/css" href="hero.css">
+    <link rel="stylesheet" href="hero.css">
 
   </head>
 
@@ -53,10 +53,17 @@
       <!-- <div class="" style="background-repeat: no-repeat; background-size: cover; background-image: url('assets/img/flo.jpeg');">
         <h1>Slide 2</h1>
         </div> -->
-      <video autoplay controls loop muted style="width:1550px;">
+      <!-- <video   autoplay controls loop muted style="width:1550px;">
         <source src="new.mp4" type="video/mp4" playsinline playsinline >
-        
+       
+      </video> -->
+      <video  autoplay controls loop muted style="width:1550px; height: auto;">
+        <source src="vd.mp4" type="video/mp4" playsinline > 
       </video>
+
+  
+  <!-- <h1 >THIS IS A RIVER.</h1>
+  <h2>How majestic.</h2> -->
       <!-- <h1>THIS IS A RIVER.</h1> -->
   <!-- <h2>How majestic.</h2> -->
       <!-- <div class="labels">
@@ -332,9 +339,9 @@
       </a>
     </div>
     <div class="videoContainer">
-      <iframe allowfullscreen="allowfullscreen" class="mainVideo" controls="controls" src="https://www.youtube.com/embed/svg%3E?autoplay=1">
+      <iframe allowfullscreen="allowfullscreen" class="mainVideo" controls="controls" src="https://www.youtube.com/embed/mPwAJdSH3XQ?si=0sLLtSB81wVnKu49">
       </iframe>
-      <img class="dotsImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/cw3.svg" style="color: red;">
+      <img class="dotsImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/cw3.svg" >
     </div>
   </div>
 </div> 
