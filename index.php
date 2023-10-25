@@ -296,7 +296,7 @@
           <li><a href="#" data-filter=".web_design">Web Design</a></li>
           <li><a href="#" data-filter=".ui_ux_design">UI/UX Design</a></li>
           <li><a href="#" data-filter=".mobile_apps">Mobile Apps</a></li>
-          <li><a href="#" data-filter=".logo_design">Logo Design</a></li>
+          <li><a href="#" data-filter=".logo_design">Digital Marketing</a></li>
         </ul>
       </div>
     </div>
@@ -309,8 +309,8 @@
           <div class="cs-portfolio_bg cs-bg" data-src="assets/img/web.jpeg"></div>
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <!-- <h2 class="cs-portfolio_title">WEB</h2> -->
-            <div class="cs-portfolio_subtitle">WebContent</div>
+            <h2 class="cs-portfolio_title">Web Development</h2>
+            <div class="cs-portfolio_subtitle">See Details</div>
           </div>
         </a>
       </div><!-- .cs-isotop_item -->
@@ -320,8 +320,8 @@
           <div class="cs-portfolio_bg cs-bg" data-src="assets/img/ui.jpeg"></div>
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <!-- <h2 class="cs-portfolio_title">Colorful Art Work</h2> -->
-            <div class="cs-portfolio_subtitle">Digitalcontent</div>
+             <h2 class="cs-portfolio_title">UI/UX Design</h2> 
+            <div class="cs-portfolio_subtitle">See Details</div>
           </div>
         </a>
       </div><!-- .cs-isotop_item -->
@@ -331,7 +331,7 @@
           <div class="cs-portfolio_bg cs-bg" data-src="assets/img/app.jpeg"></div>
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <!-- <h2 class="cs-portfolio_title">Colorful Art Work</h2> -->
+            <h2 class="cs-portfolio_title">App Development</h2> 
             <div class="cs-portfolio_subtitle">See Details</div>
           </div>
         </a>
@@ -342,7 +342,7 @@
           <div class="cs-portfolio_bg cs-bg" data-src="assets/img/dig.jpeg"></div>
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <h2 class="cs-portfolio_title">Digital Marketing</h2>
             <div class="cs-portfolio_subtitle">See Details</div>
           </div>
         </a>
@@ -353,7 +353,7 @@
           <div class="cs-portfolio_bg cs-bg" data-src="assets/img/dsf.jpeg"></div>
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <h2 class="cs-portfolio_title">Digital Sales Force</h2>
             <div class="cs-portfolio_subtitle">See Details</div>
           </div>
         </a>
@@ -364,7 +364,7 @@
           <div class="cs-portfolio_bg cs-bg" data-src="assets/img/des.jpeg"></div>
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <h2 class="cs-portfolio_title">D-Schooling</h2>
             <div class="cs-portfolio_subtitle">See Details</div>
           </div>
         </a>
@@ -375,7 +375,7 @@
           <div class="cs-portfolio_bg cs-bg" data-src="assets/img/web3.jpeg"></div>
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <h2 class="cs-portfolio_title">Colorful Art Work</h2>
+            <h2 class="cs-portfolio_title">Web3</h2>
             <div class="cs-portfolio_subtitle">See Details</div>
           </div>
         </a>
@@ -390,7 +390,7 @@
         </svg>                
       </a>
     </div>
-  </div>
+  </div><br><br><br><br>
   <!-- End Portfolio -->
 
     <!-- Start Latest Project -->
