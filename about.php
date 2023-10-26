@@ -61,7 +61,7 @@
             </div>
           </div>
           <div class="col-lg-5 offset-xl-2">
-            <img src="assets/img/ab.jpg" alt="Thumb" class="w-100 cs-radius_15">
+            <img src="assets/img/about.jpg" alt="Thumb" class="w-100 cs-radius_15">
             <div class="cs-height_25 cs-height_lg_25"></div>
           </div>
           <div class="col-lg-7">
@@ -167,7 +167,126 @@
       </div>
     </section>
     <!-- End Why Choose -->
-
+    <div class="cs-height_150 cs-height_lg_80"></div>
+    <div class="cs-portfolio cs-style2">
+      <div class="cs-gradient_shape"></div>
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <div class="cs-portfolio_img">
+              <h3 class="cs-portfolio_img_title">Web Development</h3>
+              <div class="cs-portfolio_img_in cs-shine_hover_1 cs-radius_5">
+                <img src="assets/img/portfolio_35.jpeg" alt="Portfolio" class="cs-w100">
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-5 col-lg-6 offset-xl-1">
+            <div class="cs-height_0 cs-height_lg_35"></div>
+            <div class="cs-section_heading cs-style1">
+              <h3 class="cs-section_subtitle">Project 01</h3>
+              <h2 class="cs-section_title">Winery eCommerce website design & development</h2>
+              <div class="cs-height_45 cs-height_lg_20"></div>
+              <a href="portfolio-details.html" class="cs-text_btn wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">
+                <span>See Details</span>
+                <svg width="26" height="12" viewBox="0 0 26 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M25.5303 6.53033C25.8232 6.23744 25.8232 5.76256 25.5303 5.46967L20.7574 0.696699C20.4645 0.403806 19.9896 0.403806 19.6967 0.696699C19.4038 0.989593 19.4038 1.46447 19.6967 1.75736L23.9393 6L19.6967 10.2426C19.4038 10.5355 19.4038 11.0104 19.6967 11.3033C19.9896 11.5962 20.4645 11.5962 20.7574 11.3033L25.5303 6.53033ZM0 6.75H25V5.25H0V6.75Z" fill="currentColor"></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="cs-height_100 cs-height_lg_70"></div>
+    <div class="cs-portfolio cs-style2 cs-type1">
+      <div class="cs-gradient_shape"></div>
+      <div class="container">
+        <div class="row align-items-center cs-column_reverse_lg">
+          <div class="col-xl-5 col-lg-6">
+            <div class="cs-height_0 cs-height_lg_35"></div>
+            <div class="cs-section_heading cs-style1 ">
+              <h3 class="cs-section_subtitle">Project 02</h3>
+              <h2 class="cs-section_title">Euro corporate agency for healthy environment</h2>
+              <div class="cs-height_45 cs-height_lg_20"></div>
+              <a href="portfolio-details.html" class="cs-text_btn wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">
+                <span>See Details</span>
+                <svg width="26" height="12" viewBox="0 0 26 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M25.5303 6.53033C25.8232 6.23744 25.8232 5.76256 25.5303 5.46967L20.7574 0.696699C20.4645 0.403806 19.9896 0.403806 19.6967 0.696699C19.4038 0.989593 19.4038 1.46447 19.6967 1.75736L23.9393 6L19.6967 10.2426C19.4038 10.5355 19.4038 11.0104 19.6967 11.3033C19.9896 11.5962 20.4645 11.5962 20.7574 11.3033L25.5303 6.53033ZM0 6.75H25V5.25H0V6.75Z" fill="currentColor"></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-6 offset-xl-1">
+            <div class="cs-portfolio_img">
+              <h3 class="cs-portfolio_img_title">Branding</h3>
+              <div class="cs-portfolio_img_in cs-shine_hover_1 cs-radius_5">
+                <img src="assets/img/portfolio_36.jpeg" alt="Portfolio" class="cs-w100">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="cs-height_100 cs-height_lg_70"></div>
+    <div class="cs-portfolio cs-style2">
+      <div class="cs-gradient_shape"></div>
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <div class="cs-portfolio_img">
+              <h3 class="cs-portfolio_img_title">UI Design</h3>
+              <div class="cs-portfolio_img_in cs-shine_hover_1 cs-radius_5">
+                <img src="assets/img/portfolio_37.jpeg" alt="Portfolio" class="cs-w100">
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-5 col-lg-6 offset-xl-1">
+            <div class="cs-height_0 cs-height_lg_35"></div>
+            <div class="cs-section_heading cs-style1 ">
+              <h3 class="cs-section_subtitle">Project 03</h3>
+              <h2 class="cs-section_title">Powerful admin dashboard design</h2>
+              <div class="cs-height_45 cs-height_lg_20"></div>
+              <a href="portfolio-details.html" class="cs-text_btn wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">
+                <span>See Details</span>
+                <svg width="26" height="12" viewBox="0 0 26 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M25.5303 6.53033C25.8232 6.23744 25.8232 5.76256 25.5303 5.46967L20.7574 0.696699C20.4645 0.403806 19.9896 0.403806 19.6967 0.696699C19.4038 0.989593 19.4038 1.46447 19.6967 1.75736L23.9393 6L19.6967 10.2426C19.4038 10.5355 19.4038 11.0104 19.6967 11.3033C19.9896 11.5962 20.4645 11.5962 20.7574 11.3033L25.5303 6.53033ZM0 6.75H25V5.25H0V6.75Z" fill="currentColor"></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="cs-height_100 cs-height_lg_70"></div>
+    <div class="cs-portfolio cs-style2 cs-type1">
+      <div class="cs-gradient_shape"></div>
+      <div class="container">
+        <div class="row align-items-center cs-column_reverse_lg">
+          <div class="col-xl-5 col-lg-6">
+            <div class="cs-height_0 cs-height_lg_35"></div>
+            <div class="cs-section_heading cs-style1 ">
+              <h3 class="cs-section_subtitle">Project 04</h3>
+              <h2 class="cs-section_title">Crypto financial trading apps for hedge fund</h2>
+              <div class="cs-height_45 cs-height_lg_20"></div>
+              <a href="portfolio-details.html" class="cs-text_btn wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">
+                <span>See Details</span>
+                <svg width="26" height="12" viewBox="0 0 26 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M25.5303 6.53033C25.8232 6.23744 25.8232 5.76256 25.5303 5.46967L20.7574 0.696699C20.4645 0.403806 19.9896 0.403806 19.6967 0.696699C19.4038 0.989593 19.4038 1.46447 19.6967 1.75736L23.9393 6L19.6967 10.2426C19.4038 10.5355 19.4038 11.0104 19.6967 11.3033C19.9896 11.5962 20.4645 11.5962 20.7574 11.3033L25.5303 6.53033ZM0 6.75H25V5.25H0V6.75Z" fill="currentColor"></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-6 offset-xl-1">
+            <div class="cs-portfolio_img">
+              <h3 class="cs-portfolio_img_title">Apps Design</h3>
+              <div class="cs-portfolio_img_in cs-shine_hover_1 cs-radius_5">
+                <img src="assets/img/portfolio_38.jpeg" alt="Portfolio" class="cs-w100">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <!-- our strength -->
 <br><br><br>
    <section>

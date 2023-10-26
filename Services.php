@@ -70,7 +70,7 @@
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <!-- <h2 class="cs-portfolio_title">WEB</h2> -->
-            <div class="cs-portfolio_subtitle">WebContent</div>
+            <div class="cs-portfolio_subtitle">Static / Dynamic / Portfolio / E-Comerce / Word Press etc...</div>
           </div>
         </a>
       </div><!-- .cs-isotop_item -->
@@ -81,7 +81,7 @@
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <!-- <h2 class="cs-portfolio_title">Colorful Art Work</h2> -->
-            <div class="cs-portfolio_subtitle">UI/UX...</div>
+            <div class="cs-portfolio_subtitle">UI/UX Design /Web Experience /Mobile Experience /Commerce Experience /Applications and Dashboards etc...</div>
           </div>
         </a>
       </div><!-- .cs-isotop_item -->
@@ -92,7 +92,7 @@
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <!-- <h2 class="cs-portfolio_title">Colorful Art Work</h2> -->
-            <div class="cs-portfolio_subtitle">App Development.....</div>
+            <div class="cs-portfolio_subtitle">Crowd Funding / Political Apps / E Commerce Apps / Finance & Education Apps etc...</div>
           </div>
         </a>
       </div><!-- .cs-isotop_item -->
@@ -103,7 +103,7 @@
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <!-- <h2 class="cs-portfolio_title">Colorful Art Work</h2> -->
-            <div class="cs-portfolio_subtitle">Digital Marketing....</div>
+            <div class="cs-portfolio_subtitle">Social Media Management /Performance Marketing /Search Engine Optimisation etc...</div>
           </div>
         </a>
       </div><!-- .cs-isotop_item -->
@@ -114,7 +114,7 @@
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <!-- <h2 class="cs-portfolio_title">Colorful Art Work</h2> -->
-            <div class="cs-portfolio_subtitle">DSF...</div>
+            <div class="cs-portfolio_subtitle">Insta Bond / Data Arslel / Integrated Sales Team / Social Media Depends Force etc...</div>
           </div>
         </a>
       </div><!-- .cs-isotop_item -->
@@ -125,7 +125,7 @@
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <!-- <h2 class="cs-portfolio_title">Colorful Art Work</h2> -->
-            <div class="cs-portfolio_subtitle">Deschooling...</div>
+            <div class="cs-portfolio_subtitle">Internship / DeD Center etc...</div>
           </div>
         </a>
       </div><!-- .cs-isotop_item -->
@@ -136,7 +136,7 @@
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
             <!-- <h2 class="cs-portfolio_title">Colorful Art Work</h2> -->
-            <div class="cs-portfolio_subtitle">Web3...</div>
+            <div class="cs-portfolio_subtitle">Pear to Pear Transaction / Security / DLT Concept / High end Data Encryption Details etc...</div>
           </div>
         </a>
       </div><!-- .cs-isotop_item -->

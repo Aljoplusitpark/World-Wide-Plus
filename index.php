@@ -18,7 +18,8 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="style.scss">
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-    <link rel="stylesheet" href="hero.css">
+    <!-- <link rel="stylesheet" href="hero.css"> -->
+    <link rel="stylesheet" type="text/css" href="assets/css/about.css">
 
   </head>
 
@@ -318,33 +319,30 @@
 <!-- about us  -->
 
 <div class="responsive-container-block bigContainer">
-  <div class="responsive-container-block Container bottomContainer">
-    <div class="allText bottomText">
-      <p class="text-blk headingText">
-        About Us
-      </p>
-      <p class="text-blk subHeadingText">
-      
-      </p>
-      <p class="text-blk description" style="text-align:justify;">
-      A space to celebrate your life, technology, technocracy, friendship, passion and more
-      We promote security and confidence for your imaginations by creating differentiated Insights.
-      At Plus IT Business Park, we are passionate about creating innovative software solutions that empower businesses and individuals 
-      to achieve their goals. We have been at the forefront of the digital revolution, providing cutting-edge software services and 
-      products to clients worldwide.      </p>
-      <a>
-        <button class="explore" onclick="window.location.href = 'about.html';">
-          View More
-        </button>
-      </a>
-    </div>
-    <div class="videoContainer">
-      <iframe allowfullscreen="allowfullscreen" class="mainVideo" controls="controls" src="https://www.youtube.com/embed/mPwAJdSH3XQ?si=0sLLtSB81wVnKu49">
-      </iframe>
-      <img class="dotsImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/cw3.svg" >
+    <div class="responsive-container-block Container bottomContainer">
+      <div class="allText bottomText">
+        <p class="text-blk headingText">
+          About Us
+        </p>
+        <p class="text-blk subHeadingText">
+          We build to your bespoke
+        </p>
+        <p class="text-blk description">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fermentum pulvinar ullamcorper suspendisse ac eget. Pellentesque tempus leo in ullamcorper quis vestibulum ligula elementum ut. Congue in dignissim tincidunt ut dolor eu. Mi, eget posuere vitae sed purus nisl lorem.
+        </p>
+        <a>
+          <button class="explore" onclick="window.location.href = 'about.html';">
+            View More
+          </button>
+        </a>
+      </div>
+      <div class="videoContainer">
+        <iframe allowfullscreen="allowfullscreen" class="mainVideo" controls="controls" src="https://www.youtube.com/embed/svg%3E?autoplay=1">
+        </iframe>
+        <img class="dotsImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/cw3.svg" style="color: red;">
+      </div>
     </div>
   </div>
-</div> 
 
 <!-- end about us -->
 
@@ -431,7 +429,7 @@
           <div class="cs-portfolio_bg cs-bg" data-src="assets/img/des.jpeg"></div>
           <div class="cs-portfolio_info">
             <div class="cs-portfolio_info_bg cs-accent_bg"></div>
-            <h2 class="cs-portfolio_title">D-Schooling</h2>
+            <h2 class="cs-portfolio_title">DeSchooling</h2>
             <div class="cs-portfolio_subtitle">See Details</div>
           </div>
         </a>
@@ -647,236 +645,7 @@
     <!-- End Video Block -->
     <div class="cs-height_145 cs-height_lg_80" ></div>
     <!-- Start Team Section -->
-    <section style="background-image: url('assets/img/sbg6.png');  background-size: cover;
-    background-repeat: no-repeat; background-position: left center;">
-      <div class="container">
-        <div class="cs-slider cs-style2 cs-gap-24">
-          <div class="cs-slider_heading cs-style1">
-            <div class="cs-section_heading cs-style1">
-              <h3 class="cs-section_subtitle wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s"> Our Team </h3>
-              <h2 class="cs-section_title">Team members </h2>
-            </div>
-            <!-- <div class="cs-slider_arrows cs-style1 cs-primary_color">
-              <div class="cs-left_arrow cs-center">
-                <svg width="26" height="13" viewBox="0 0 26 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M0.469791 5.96967C0.176899 6.26256 0.176899 6.73744 0.469791 7.03033L5.24276 11.8033C5.53566 12.0962 6.01053 12.0962 6.30342 11.8033C6.59632 11.5104 6.59632 11.0355 6.30342 10.7426L2.06078 6.5L6.30342 2.25736C6.59632 1.96447 6.59632 1.48959 6.30342 1.1967C6.01053 0.903806 5.53566 0.903806 5.24276 1.1967L0.469791 5.96967ZM26.0001 5.75L1.00012 5.75V7.25L26.0001 7.25V5.75Z" fill="currentColor" />
-                </svg>
-              </div>
-              <div class="cs-right_arrow cs-center">
-                <svg width="26" height="13" viewBox="0 0 26 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M25.5305 7.03033C25.8233 6.73744 25.8233 6.26256 25.5305 5.96967L20.7575 1.1967C20.4646 0.903806 19.9897 0.903806 19.6968 1.1967C19.4039 1.48959 19.4039 1.96447 19.6968 2.25736L23.9395 6.5L19.6968 10.7426C19.4039 11.0355 19.4039 11.5104 19.6968 11.8033C19.9897 12.0962 20.4646 12.0962 20.7575 11.8033L25.5305 7.03033ZM0.00012207 7.25H25.0001V5.75H0.00012207V7.25Z" fill="currentColor" />
-                </svg>
-              </div>
-            </div> -->
-          </div>
-          <div class="cs-height_85 cs-height_lg_45"></div>
-          <div class="wrapper">
-  <div class="row row-features">
-    <div class="block-wrap h50 mob-auto">
-      <div class="block">
-        <div class="new-feature-slider">
-          <div id="slider-1" class="feature-slide active">
-            <div class="block-wrap w50 new-feature-image-wrap mob-auto">
-              <div class="block">
-                <div class="feature-slide-image">
-                  <div class="" style="background-image:url('assets/img/t1.jpg');">
-                    <img src="assets/img/t1.jpg">
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="block-wrap w50 center-content mob-auto">
-              <div class="block" style="background-color: #181818">
-                <div class="content-centered overview-text">
-                  <h2 class="fakeh1">Sneha Haridas</h2>
-                  <span class="divider-wave blue-wave"></span>
-                  
-                  <p style="text-align:justify;">Our goal at Plus IT Park is to establish an environment that enables you to develop deeper  and broader branches. Let's embark on a successful journey together!</p>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- <div id="slider-2" class="feature-slide">
-            <div class="block-wrap w50 new-feature-image-wrap mob-auto">
-              <div class="block">
-                <div class="feature-slide-image">
-                  <div class="" style="background-image:url('http://www.williamsjettenders.com/wp-content/uploads/2015/08/325-image3.jpg');">
-                    <img src="http://www.williamsjettenders.com/wp-content/uploads/2015/08/325-image3.jpg">
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="block-wrap w50 center-content mob-auto">
-              <div class="block">
-                <div class="content-centered overview-text">
-                  <h2 class="fakeh1">High Performance</h2>
-                  <span class="divider-wave blue-wave"></span>
-                  <p></p>
-                  <p>Turbojets are known for outperforming almost all comparable craft on the water, whether it is pulling a waterskier, cruising along the coast or whipping in and out of tight corners. With top speeds of up to 53 mph/85 kph, jumping aboard
-                    a Turbojet and firing up the engine is a thrill you will never tire of.</p>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div id="slider-3" class="feature-slide">
-            <div class="block-wrap w50 new-feature-image-wrap mob-auto">
-              <div class="block">
-                <div class="feature-slide-image">
-                  <div class="" style="background-image:url('http://www.williamsjettenders.com/wp-content/uploads/2015/08/445-image2.jpg');">
-                    <img src="http://www.williamsjettenders.com/wp-content/uploads/2015/08/445-image2.jpg">
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="block-wrap w50 center-content mob-auto">
-              <div class="block">
-                <div class="content-centered overview-text">
-                  <h2 class="fakeh1">Supreme Stability &amp; Buoyancy</h2>
-                  <span class="divider-wave blue-wave"></span>
-                  <p></p>
-                  <p>The Turbojet design places the helmsman at the stern of the craft in the most secure position for maximum control. By utilising a centrally mounted engine and an inflatable tube, which is positioned close to the water, the Turbojet is
-                    supremely stable whether static or running at speed. This makes for easy and comfortable passenger boarding and a safe, enjoyable ride at high speed. What’s more, due to the inherent hull buoyancy, the tender will float even without
-                    the inflatable tube.
-                  </p>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div id="slider-4" class="feature-slide">
-            <div class="block-wrap w50 new-feature-image-wrap mob-auto">
-              <div class="block">
-                <div class="feature-slide-image">
-                  <div class="" style="background-image:url('http://www.williamsjettenders.com/wp-content/uploads/2015/10/features32.jpg');">
-                    <img src="http://www.williamsjettenders.com/wp-content/uploads/2015/10/features32.jpg">
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="block-wrap w50 center-content mob-auto">
-              <div class="block">
-                <div class="content-centered overview-text">
-                  <h2 class="fakeh1">More torque, less maintenance jet pumps</h2>
-                  <span class="divider-wave blue-wave"></span>
-                  <p></p>
-                  <p>Our purpose-made jet pumps are not only more efficient, they are also incredibly safe, as there are no exposed moving parts. With stainless steel impeller and double-coated pumps, they provide excellent protection against corrosion,
-                    giving you long life with minimal maintenance.</p>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div id="slider-5" class="feature-slide">
-            <div class="block-wrap w50 new-feature-image-wrap mob-auto">
-              <div class="block">
-                <div class="feature-slide-image">
-                  <div class="" style="background-image:url('http://www.williamsjettenders.com/wp-content/uploads/2015/10/features51.jpg');">
-                    <img src="http://www.williamsjettenders.com/wp-content/uploads/2015/10/features51.jpg">
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="block-wrap w50 center-content mob-auto">
-              <div class="block">
-                <div class="content-centered overview-text">
-                  <h2 class="fakeh1">Manoeuvrability in all conditions</h2>
-                  <span class="divider-wave blue-wave"></span>
-                  <p></p>
-                  <p>Get pinpoint accuracy at both high and low speeds. The unique Turbojet hull, control system and jet pump make getting in and out of tight spots an easy task. Drive up to a yacht or handle confined spaces with utmost confidence. At the
-                    other end of the scale, you can open up the throttle for superior high-speed straightline tracking and precision controlled turns.</p>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div id="slider-6" class="feature-slide">
-            <div class="block-wrap w50 new-feature-image-wrap mob-auto">
-              <div class="block">
-                <div class="feature-slide-image">
-                  <div class="" style="background-image:url('http://www.williamsjettenders.com/wp-content/uploads/2015/08/325-image2.jpg');">
-                    <img src="http://www.williamsjettenders.com/wp-content/uploads/2015/08/325-image2.jpg">
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="block-wrap w50 center-content mob-auto">
-              <div class="block">
-                <div class="content-centered overview-text">
-                  <h2 class="fakeh1">Clear Instrumentation</h2>
-                  <span class="divider-wave blue-wave"></span>
-                  <p></p>
-                  <p>Have peace of mind with instrumentation to keep you informed of what’s going on above and below the water. As well as standard instruments, you can specify optional extras such as depth sounder, vhf radio and chartplotter. You can even
-                    opt to have a removable steering wheel to make storage easier and as an effective anti-theft device.</p>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div id="slider-7" class="feature-slide">
-            <div class="block-wrap w50 new-feature-image-wrap mob-auto">
-              <div class="block">
-                <div class="feature-slide-image">
-                  <div class="" style="background-image:url('http://www.williamsjettenders.com/wp-content/uploads/2015/10/features61.jpg');">
-                    <img src="http://www.williamsjettenders.com/wp-content/uploads/2015/10/features61.jpg">
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="block-wrap w50 center-content mob-auto">
-              <div class="block">
-                <div class="content-centered overview-text">
-                  <h2 class="fakeh1">Sitting comfortably</h2>
-                  <span class="divider-wave blue-wave"></span>
-                  <p></p>
-                  <p>The seating on a Turbojet is not only comfortable, it has been designed to keep you drier and more secure. With a commanding helm position from the stern, you can keep an eye on your passengers, and seat between three and seven adults.</p>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div id="slider-8" class="feature-slide">
-            <div class="block-wrap w50 new-feature-image-wrap mob-auto">
-              <div class="block">
-                <div class="feature-slide-image">
-                  <div class="" style="background-image:url('http://www.williamsjettenders.com/wp-content/uploads/2015/07/285-image1.jpg');">
-                    <img src="http://www.williamsjettenders.com/wp-content/uploads/2015/07/285-image1.jpg">
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="block-wrap w50 center-content mob-auto">
-              <div class="block">
-                <div class="content-centered overview-text">
-                  <h2 class="fakeh1">Easily replaceable tubes</h2>
-                  <span class="divider-wave blue-wave"></span>
-                  <p></p>
-                  <p>The inflatable tubes on all Williams tenders have been designed to be removed and replaced, quickly and easily. So you can get back on the water with minimal fuss. </p>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-          </div> -->
-        </div>
-        <div class="controls new-feature-controls">
-          <span class="control button-prev"></span>
-          <span class="control button-next"></span>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-          
-          <!-- .cs-slider_container -->
-          <div class="cs-pagination cs-style1 cs-hidden_desktop"></div>
-        </div>
-        <!-- .cs-slider -->
-      </div>
-    </section>
+    
     <!-- End Team Section -->
     <div class="cs-height_150 cs-height_lg_80"></div>
     <!-- Start Testimonial Section -->
