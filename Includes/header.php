@@ -20,10 +20,10 @@
                     <a href="about.php">About Us</a>
                     <ul>
                       
-                      <li><a href="#">Our Leadership</a></li>
-                      <li><a href="#">Carriers</a></li>
+                      <li><a href="#">Openings</a></li>
+                      <li><a href="internship.php">Careers</a></li>
                       <li><a href="#">Downloads</a></li>
-                      <li><a href="#">Policies</a></li>
+                      <!-- <li><a href="#">Policies</a></li> -->
                     </ul>
                   </li>
 

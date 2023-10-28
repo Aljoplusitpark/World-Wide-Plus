@@ -326,22 +326,23 @@
         <p class="text-blk headingText">
           About Us
         </p>
-        <p class="text-blk subHeadingText">
+        <!-- <p class="text-blk subHeadingText">
           We build to your bespoke
-        </p>
-        <p class="text-blk description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fermentum pulvinar ullamcorper suspendisse ac eget. Pellentesque tempus leo in ullamcorper quis vestibulum ligula elementum ut. Congue in dignissim tincidunt ut dolor eu. Mi, eget posuere vitae sed purus nisl lorem.
+        </p> -->
+        <p class="text-blk description" style="text-align:justify;">
+          A space to celebrate your life, technology, technocracy, friendship, passion and more We promote security and confidence for your imaginations by creating differentiated Insights. At Plus IT Business Park, we are passionate about creating innovative software solutions that empower businesses and individuals to achieve their goals. We have been at the forefront of the digital revolution, providing cutting-edge software services and products to clients worldwide.
         </p>
         <a>
-          <button class="explore" onclick="window.location.href = 'about.html';">
+          <button class="explore" onclick="window.location.href = 'about.php';">
             View More
           </button>
         </a>
       </div>
       <div class="videoContainer">
-        <iframe allowfullscreen="allowfullscreen" class="mainVideo" controls="controls" src="https://www.youtube.com/embed/svg%3E?autoplay=1">
-        </iframe>
-        <img class="dotsImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/cw3.svg" style="color: red;">
+        <!-- <iframe allowfullscreen="allowfullscreen" class="mainVideo" controls="controls" src="https://www.youtube.com/embed/svg%3E?autoplay=1">
+        </iframe> -->
+        <img src="assets/img/about/about.png" class="mainVideo">
+        <img class="dotsImg image-block" src="assets/img/cw3.png">
       </div>
     </div>
   </div>
@@ -1075,6 +1076,7 @@
         </div>
       </div>
       <div class="cs-height_130 cs-height_lg_80"></div>
+      
     </section>
     <!-- End Testimonial Section -->
     <!-- Start Blog Section -->
