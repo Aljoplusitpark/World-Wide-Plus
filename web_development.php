@@ -545,7 +545,7 @@
           <div class="cs-shape_1"></div>
           <div class="cs-shape_1"></div>
           <div class="cs-cta_in">
-            <h2 class="cs-cta_title cs-semi_bold cs-m0">Let's talk and create<br>something <i>awesome</i> together. </h2>
+            <h2 class="cs-cta_title cs-semi_bold cs-m0">Let's talk and create<br>something <i>awesome</i> Together </h2>
             <div class="cs-height_70 cs-height_lg_30"></div>
             <a href="contact.html" class="cs-text_btn">
               <span>Join For Us</span>

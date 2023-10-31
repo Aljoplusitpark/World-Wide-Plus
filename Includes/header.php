@@ -19,14 +19,12 @@
                   <li class="menu-item-has-children">
                     <a href="about.php">About Us</a>
                     <ul>
-                      
-                      <li><a href="#">Openings</a></li>
+                      <li><a href="openings.php">Openings</a></li>
                       <li><a href="internship.php">Careers</a></li>
-                      <li><a href="#">Downloads</a></li>
-                      <!-- <li><a href="#">Policies</a></li> -->
+                      <li><a href="downloads.php">Downloads</a></li>
+                      <li><a href="team.php">Our Team</a></li>
                     </ul>
                   </li>
-
                   <li class="menu-item-has-children">
                     <a href="services.php">What We Do</a>
                     <ul>
@@ -36,11 +34,11 @@
                       <li><a href="#">Digital Marketing</a></li>
                       <li><a href="#">Digital Sales Force</a></li>
                       <li><a href="#">Industrial 4.O</a></li>
-                      <li><a href="#">Training Program</a></li>
-                      <li><a href="#">Study Tours</a></li>
+                      <li><a href="internship.php">Training Program</a></li>
+                      <!-- <li><a href="#">Study Tours</a></li> -->
                       <!-- <li><a href="#">D-Schooling</a></li>
                       <li><a href="#">Community</a></li> -->
-                      <li><a href="#">Custome Made Software</a></li>
+                      <!-- <li><a href="#">Custome Made Software</a></li> -->
                       
 
                     </ul>
@@ -61,7 +59,7 @@
                     <a href="life at plus.php">Life at Plus IT Park</a>
                     <ul>
                       <li><a href="#">Events & Cultural Programs</a></li>
-                      <li><a href="#">News</a></li>
+                      <li><a href="#">Blog</a></li>
                       <li><a href="#">Testimonials</a></li>
                     </ul>
                   </li>

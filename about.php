@@ -41,7 +41,7 @@
       </div>
     </div>
     <!-- End Hero -->
-    <div class="cs-height_150 cs-height_lg_80"></div>
+    <div class="cs-height_50 cs-height_lg_80"></div>
     <section>
       <div class="container">
         <div class="row">
@@ -62,7 +62,7 @@
             </div>
           </div>
           <div class="col-lg-5 offset-xl-2">
-            <img src="assets/img/about.jpg" alt="Thumb" class="w-100 cs-radius_15">
+            <img src="assets/img/about/about-2.jpg" alt="Thumb" class="w-100 cs-radius_15">
             <div class="cs-height_25 cs-height_lg_25"></div>
           </div>
           <div class="col-lg-7">
@@ -70,7 +70,7 @@
             <div class="cs-height_20 cs-height_lg_25"></div>
           </div>
           <div class="col-lg-5">
-            <img src="assets/img/about/about-1.jpeg" alt="Thumb" class="w-100 cs-radius_15">
+            <img src="assets/img/about/about-1.png" alt="Thumb" class="w-100 cs-radius_15">
             <div class="cs-height_25 cs-height_lg_25"></div>
           </div>
           <br>
@@ -78,6 +78,7 @@
         </div>
       </div>
     </section>
+
     <div class="cs-height_75 cs-height_lg_55"></div>
     <!-- Start FunFact -->
     <section>
@@ -123,61 +124,9 @@
         </div>
       </div>
     </section>
-    <!-- <section>
-      <div class="container">
-        <div class="cs-funfact_wrap">
-          <div class="cs-funfact_shape" data-src="assets/img/funfact_shape_bg.svg"></div>
-          <div class="cs-funfact_left">
-            <div class="cs-funfact_heading">
-              <h2>Our fun fact</h2>
-              <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
-            </div>
-          </div>
-          <div class="cs-funfact_right">
-            <div class="cs-funfacts">
-              <div class="cs-funfact cs-style1">
-                <div class="cs-funfact_number cs-primary_font cs-semi_bold cs-primary_color">
-                  <span data-count-to="40" class="odometer"></span>K
-                </div>
-                <div class="cs-funfact_text">
-                  <span class="cs-accent_color">+</span>
-                  <p>Global Happy Clients</p>
-                </div>
-              </div>
-              <div class="cs-funfact cs-style1">
-                <div class="cs-funfact_number cs-primary_font cs-semi_bold cs-primary_color">
-                  <span data-count-to="50" class="odometer"></span>K
-                </div>
-                <div class="cs-funfact_text">
-                  <span class="cs-accent_color">+</span>
-                  <p>Project Completed</p>
-                </div>
-              </div>
-              <div class="cs-funfact cs-style1">
-                <div class="cs-funfact_number cs-primary_font cs-semi_bold cs-primary_color">
-                  <span data-count-to="245" class="odometer"></span>
-                </div>
-                <div class="cs-funfact_text">
-                  <span class="cs-accent_color">+</span>
-                  <p>Team Members</p>
-                </div>
-              </div>
-              <div class="cs-funfact cs-style1">
-                <div class="cs-funfact_number cs-primary_font cs-semi_bold cs-primary_color">
-                  <span data-count-to="550" class="odometer"></span>
-                </div>
-                <div class="cs-funfact_text">
-                  <span class="cs-accent_color">+</span>
-                  <p>Digital products</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> -->
+    
     <!-- End FunFact -->
-    <div class="cs-height_150 cs-height_lg_80"></div>
+    <div class="cs-height_80 cs-height_lg_80"></div>
     <!-- Start Why Choose -->
     <section>
       <div class="container">
@@ -195,12 +144,12 @@
               <!-- <h3 class="cs-section_subtitle">Why Choose Us</h3> -->
               <h2 class="cs-section_title">Our Mission</h2>
               <div class="cs-height_30 cs-height_lg_20"></div>
-              <p class="cs-m0">
+              <p class="cs-m0" style="text-align: justify;">
                 Our mission is to empower businesses with cutting-edge web development and digital marketing solutions that drive growth
                  and achieve their goals. We strive to deliver exceptional value through creativity, expertise, and collaboration, 
                  and to become a trusted partner for businesses of all sizes.</p>
               <div class="cs-height_15 cs-height_lg_15"></div>
-              <p class="cs-m0">Our goal is to be a trusted partner for our clients, helping them grow and achieve their objectives in 
+              <p class="cs-m0" style="text-align: justify;">Our goal is to be a trusted partner for our clients, helping them grow and achieve their objectives in 
                 the fast-paced and ever-changing digital landscape.</p>
               <div class="cs-height_30 cs-height_lg_30"></div>
               <div class="cs-separator cs-accent_bg"></div>
@@ -211,7 +160,7 @@
       </div>
     </section>
     <!-- End Why Choose -->
-    <div class="cs-height_150 cs-height_lg_80"></div>
+    <!-- <div class="cs-height_10 cs-height_lg_80"></div> -->
     <section class="cs-shape_wrap_4 cs-parallax" style="background-image: url('assets/img/sbg6.png');  background-size: cover;
     background-repeat: no-repeat; background-position: bottom 70px right 100px; ">
       <div class="cs-shape_4 cs-to_up"></div>
@@ -238,7 +187,7 @@
                 <div class="cs-slider_wrapper">
                   <div class="cs-slid">
                     <div class="cs-post cs-style1">
-                      <a href="blog-details.html" class="cs-post_thumb">
+                      <a href="#" class="cs-post_thumb">
                         <img src="assets/img/Team/team.jpg" alt="Post">
                         <div class="cs-post_overlay"></div>
                       </a>
@@ -255,7 +204,7 @@
                   <!-- .cs-slide -->
                   <div class="cs-slide">
                     <div class="cs-post cs-style1">
-                      <a href="blog-details.html" class="cs-post_thumb">
+                      <a href="#" class="cs-post_thumb">
                         <img src="assets/img/Team/team-1.jpg" alt="Post">
                         <div class="cs-post_overlay"></div>
                       </a>
@@ -272,20 +221,69 @@
                   <!-- .cs-slide -->
                   <div class="cs-slide">
                     <div class="cs-post cs-style1">
-                      <a href="blog-details.html" class="cs-post_thumb">
-                        <img src="assets/img/clients-3.jpg" alt="Post">
+                      <a href="#" class="cs-post_thumb">
+                        <img src="assets/img/Team/team-2.jpg" alt="Post">
                         <div class="cs-post_overlay"></div>
                       </a>
                       <div class="cs-post_info">
                         <!-- <div class="cs-posted_by">05 Apr 2022</div> -->
                         <h2 class="cs-post_title">
-                          <a href="blog-details.html">Aartees Group</a>
+                          <a href="#">Febin Francis</a>
+                          <p>Mobile App Developer</p>
+                          <p>Team Leader</p>
                         </h2>
                       </div>
                     </div>
                   </div>
                   <!-- .cs-slide -->
-                 
+                 <div class="cs-slide">
+                    <div class="cs-post cs-style1">
+                      <a href="#" class="cs-post_thumb">
+                        <img src="assets/img/Team/team-3.jpg" alt="Post">
+                        <div class="cs-post_overlay"></div>
+                      </a>
+                      <div class="cs-post_info">
+                        <!-- <div class="cs-posted_by">05 Apr 2022</div> -->
+                        <h2 class="cs-post_title">
+                          <a href="#">Shinto Roy</a>
+                          <p>Digital Marketing Executive</p>
+                          <p>Team Leader</p>
+                        </h2>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="cs-slide">
+                    <div class="cs-post cs-style1">
+                      <a href="#" class="cs-post_thumb">
+                        <img src="assets/img/Team/team-4.jpg" alt="Post">
+                        <div class="cs-post_overlay"></div>
+                      </a>
+                      <div class="cs-post_info">
+                        <!-- <div class="cs-posted_by">05 Apr 2022</div> -->
+                        <h2 class="cs-post_title">
+                          <a href="#">Vyshnavi Prasee</a>
+                          <p>Graphics Designer</p>
+                          <p>Team Manager</p>
+                        </h2>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="cs-slide">
+                    <div class="cs-post cs-style1">
+                      <a href="#" class="cs-post_thumb">
+                        <img src="assets/img/Team/team-5.jpg" alt="Post">
+                        <div class="cs-post_overlay"></div>
+                      </a>
+                      <div class="cs-post_info">
+                        <!-- <div class="cs-posted_by">05 Apr 2022</div> -->
+                        <h2 class="cs-post_title">
+                          <a href="#">Antony Jose</a>
+                          <p>Graphics Designer</p>
+                          <p>Team Leader</p>
+                        </h2>
+                      </div>
+                    </div>
+                  </div>
                   <!-- .cs-slide -->
                 </div>
               </div>
@@ -420,92 +418,88 @@
     </div>
     <!-- our strength -->
 <br><br><br>
-   <section>
+<section class="cs-shape_wrap_2">
+      <div class="cs-shape_2">
+        <div></div>
+      </div>
       <div class="container">
-        <div class="row">
-       
-          <!-- <div class="col-xl-5 offset-xl-1 col-lg-6">
+        <div class="cs-slider cs-style1 cs-gap-24">
+          <div class="cs-slider_left">
             <div class="cs-section_heading cs-style1">
+              <!-- <h3 class="cs-section_subtitle wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s"> Our Awards </h3> -->
               <h2 class="cs-section_title">Our Strength</h2>
-              <div class="cs-height_30 cs-height_lg_20"></div>
-              <p class="cs-m0">
-                Our mission is to empower businesses with cutting-edge web development and digital marketing solutions that drive growth
-                 and achieve their goals. We strive to deliver exceptional value through creativity, expertise, and collaboration, 
-                 and to become a trusted partner for businesses of all sizes.</p>
-              <div class="cs-height_15 cs-height_lg_15"></div>
-              <p class="cs-m0">Our goal is to be a trusted partner for our clients, helping them grow and achieve their objectives in 
-                the fast-paced and ever-changing digital landscape.</p>
-              <div class="cs-height_30 cs-height_lg_30"></div>
-              <div class="cs-separator cs-accent_bg"></div>
-              <div class="cs-height_25 cs-height_lg_0"></div>
             </div>
-          </div> -->
-          <h2 class="cs-section_title">Our Strength</h2><br><br>
-          <div class="col-xl-5 offset-xl-1 col-lg-6">
-          
-              <!-- <h3 class="cs-section_subtitle">Why Choose Us</h3> -->
-              
-              
-          <div class="slideshow-container">
-
-            <div class="mySlides">
-              <h3 style="color: #ff3399;">01</h3>
-              <h6>Committed Team</h6>
-                <p class="cs-m0">Our team is highly qualified, and we know how to execute everything with professionalism and quality. More 
-                  significantly, our employees are great to work with because they enjoy what they do.
-                </p>
-            </div>
-            
-            <div class="mySlides">
-              <h3 style="color: #ff3399;">02</h3>
-              <h6>Support & Maintenance</h6>
-                <p class="cs-m0">We respond to customer inquiries quickly and satisfactorily. Additionally, We are accessible 24 x 7, 
-                  which benefits our customers by enabling them to quickly and easily resolve their problems.
-                </p>
-            </div>
-            
-            <div class="mySlides">
-              <h3 style="color: #ff3399;">03</h3>
-              <h6>Value Customers</h6>
-                <p class="cs-m0">We think it's important to give customers what they want. We value each and every need of a client. 
-                  Each employee receives training to improve his or her skills, enabling him or her to work in accordance with our 
-                  overarching goals.
-                </p>
-            </div>
-
-            <div class="mySlides">
-              <h3 style="color: #ff3399;">04</h3>
-              <h6>Culture</h6>
-                <p class="cs-m0">Whatever we do manifests itself in culture. Plus IT Business Park  never imitates any culture; instead
-                  , we have developed one of our own that successfully combines a variety of admirable elements.
-                </p>
-            </div>
-            
-            <!-- <a class="prev" onclick="plusSlides(-1)">❮</a>
-            <a class="next" onclick="plusSlides(1)">❯</a> -->
-            
-            </div>
-            
-            <div class="dot-container">
-              <span class="dot" onclick="currentSlide(1)"></span> 
-              <span class="dot" onclick="currentSlide(2)"></span> 
-              <span class="dot" onclick="currentSlide(3)"></span> 
-              <span class="dot" onclick="currentSlide(4)"></span> 
-            </div>
-          </div>
-          <div class="col-xl-5 col-lg-6">
+             <div class="cs-height_45 cs-height_lg_20"></div>
+            <!--<div class="cs-slider_arrows cs-style1 cs-primary_color">
+              <div class="cs-left_arrow cs-center">
+                <svg width="26" height="13" viewBox="0 0 26 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0.469791 5.96967C0.176899 6.26256 0.176899 6.73744 0.469791 7.03033L5.24276 11.8033C5.53566 12.0962 6.01053 12.0962 6.30342 11.8033C6.59632 11.5104 6.59632 11.0355 6.30342 10.7426L2.06078 6.5L6.30342 2.25736C6.59632 1.96447 6.59632 1.48959 6.30342 1.1967C6.01053 0.903806 5.53566 0.903806 5.24276 1.1967L0.469791 5.96967ZM26.0001 5.75L1.00012 5.75V7.25L26.0001 7.25V5.75Z" fill="currentColor" />
+                </svg>
+              </div>
+              <div class="cs-right_arrow cs-center">
+                <svg width="26" height="13" viewBox="0 0 26 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M25.5305 7.03033C25.8233 6.73744 25.8233 6.26256 25.5305 5.96967L20.7575 1.1967C20.4646 0.903806 19.9897 0.903806 19.6968 1.1967C19.4039 1.48959 19.4039 1.96447 19.6968 2.25736L23.9395 6.5L19.6968 10.7426C19.4039 11.0355 19.4039 11.5104 19.6968 11.8033C19.9897 12.0962 20.4646 12.0962 20.7575 11.8033L25.5305 7.03033ZM0.00012207 7.25H25.0001V5.75H0.00012207V7.25Z" fill="currentColor" />
+                </svg>
+              </div>
+            </div> -->
+            <!-- <div class="col-xl-5 col-lg-6"> -->
             <div class="cs-image_layer cs-style1">
               <div class="cs-image_layer_in">
                 <img src="assets/img/s3.jpg" alt="Image" class="w-100 cs-radius_15">
               </div>
             </div>
             <div class="cs-height_0 cs-height_lg_40"></div>
+          <!-- </div> -->
+          </div>
+          <div class="cs-slider_right">
+            <div class="cs-slider_container" data-autoplay="0" data-loop="1" data-speed="600" data-center="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="2" data-md-slides="2" data-lg-slides="2" data-add-slides="2">
+              <div class="cs-slider_wrapper">
+                <div class="cs-slide">
+                  <div class="cs-time_line cs-style1">
+                    <h3 class="cs-accent_color">01</h3>
+                    <h2>Committed Team</h2>
+                    <p style="text-align: justify;">Our team is highly qualified, and we know how to execute everything with professionalism and quality. More significantly, our employees are great to work with because they enjoy what they do.</p>
+                    <!-- <p>Mobile exelence</p> -->
+                  </div>
+                  <div class="cs-height_40 cs-height_lg_30"></div>
+                  <br>
+                  <div class="cs-time_line cs-style1">
+                    <h3 class="cs-accent_color">02</h3>
+                    <h2>Support & Maintenance</h2>
+                    <p style="text-align: justify;">We respond to customer inquiries quickly and satisfactorily. Additionally, We are accessible 24 x 7, which benefits our customers by enabling them to quickly and easily resolve their problems.</p>
+                  </div>
+                </div>
+                <!-- .cs-slide -->
+                <div class="cs-slide">
+                  <div class="cs-time_line cs-style1">
+                    <h3 class="cs-accent_color">03</h3>
+                    <h2>Value Customers</h2>
+                    <p style="text-align: justify;">We think it's important to give customers what they want. We value each and every need of a client. Each employee receives training to improve his or her skills, enabling him or her to work in accordance with our 
+                  overarching goals.
+                </p>
+                    
+                  </div>
+                  <div class="cs-height_40 cs-height_lg_30"></div>
+                  <div class="cs-time_line cs-style1">
+                    <h3 class="cs-accent_color">04</h3>
+                    <h2>Culture</h2>
+                    <p style="text-align: justify;">Whatever we do manifests itself in culture. Plus IT Business Park  never imitates any culture; instead
+                  , we have developed one of our own that successfully combines a variety of admirable elements.</p>
+                    
+                  </div>
+                </div>
+                <!-- .cs-slide -->
+                
+              </div>
+            </div>
+            <!-- .cs-slider_container -->
+            <div class="cs-pagination cs-style1 cs-hidden_desktop"></div>
           </div>
         </div>
-      </div>
-    </div>
+        <!-- .cs-slider -->
       </div>
     </section>
+   
 
     <!-- End our strength -->
 <br><br>
@@ -649,7 +643,7 @@
     </div>
     <!-- End Partner Logo -->
 
-    <div class="cs-height_145 cs-height_lg_80"></div>
+    <!-- <div class="cs-height_145 cs-height_lg_80"></div> -->
     <!-- Start Team Section -->
     
 
@@ -662,7 +656,7 @@
  
 <!-- End web design Section -->
 
-    <div class="cs-height_150 cs-height_lg_80"></div>
+    <div class="cs-height_50 cs-height_lg_80"></div>
     <!-- Start CTA -->
     <section>
       <div class="container">

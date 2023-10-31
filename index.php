@@ -329,6 +329,7 @@
         <!-- <p class="text-blk subHeadingText">
           We build to your bespoke
         </p> -->
+        <br>
         <p class="text-blk description" style="text-align:justify;">
           A space to celebrate your life, technology, technocracy, friendship, passion and more We promote security and confidence for your imaginations by creating differentiated Insights. At Plus IT Business Park, we are passionate about creating innovative software solutions that empower businesses and individuals to achieve their goals. We have been at the forefront of the digital revolution, providing cutting-edge software services and products to clients worldwide.
         </p>
@@ -349,7 +350,7 @@
 
 <!-- end about us -->
 
-    <br><br><br><br><br>
+    
   <!-- Start Portfolio -->
   <div class="container">
     <div class="cs-portfolio_1_heading">
@@ -458,7 +459,7 @@
         <!-- </svg>                 -->
       </a>
     </div>
-  </div><br><br><br><br>
+  </div>
   <!-- End Portfolio -->
 
     <!-- Start Latest Project -->
@@ -646,7 +647,7 @@
       </a>
     </div> -->
     <!-- End Video Block -->
-    <div class="cs-height_145 cs-height_lg_80" ></div>
+    <div class="cs-height_50 cs-height_lg_80" ></div>
     <!-- Start Team Section -->
     
 
@@ -674,7 +675,7 @@
               </div>
             </div> -->
           </div>
-          <div class="cs-height_85 cs-height_lg_45"></div>
+          <div class="cs-height_45 cs-height_lg_45"></div>
           <div class="wrapper">
   <div class="row row-features">
     <div class="block-wrap h50 mob-auto">
@@ -883,7 +884,7 @@
       </div>
     </section>
     <!-- End Team Section -->
-    <div class="cs-height_150 cs-height_lg_80"></div>
+    <div class="cs-height_50 cs-height_lg_80"></div>
     <!-- Start Testimonial Section -->
     <section class="cs-gradient_bg_1 cs-shape_wrap_3 cs-parallax">
       <div class="cs-shape_3 cs-to_up">
@@ -1075,7 +1076,7 @@
           </div>
         </div>
       </div>
-      <div class="cs-height_130 cs-height_lg_80"></div>
+      <div class="cs-height_50 cs-height_lg_80"></div>
       
     </section>
     <!-- End Testimonial Section -->
@@ -1084,7 +1085,7 @@
     background-repeat: no-repeat; background-position: bottom 70px right 100px; ">
       <div class="cs-shape_4 cs-to_up"></div>
       <div class="cs-shape_4 cs-to_right"></div>
-      <div class="cs-height_150 cs-height_lg_80"></div>
+      <div class="cs-height_50 cs-height_lg_80"></div>
       <div class="container">
         <div class="cs-slider cs-style1 cs-gap-24">
           <div class="cs-slider_left">
@@ -1219,7 +1220,7 @@
 
 
     
-    <div class="cs-height_100 cs-height_lg_70"></div>
+    <div class="cs-height_50 cs-height_lg_70"></div>
     <!-- Start Partner Logo -->
     <div class="container">
       <div class="cs-partner_logo_wrap">
@@ -1349,7 +1350,7 @@
       </div>
     </div>
     <!-- End Partner Logo -->
-    <div class="cs-height_130 cs-height_lg_70"></div>
+    <div class="cs-height_50 cs-height_lg_70"></div>
     <!-- Start CTA -->
     <section>
       <div class="container">

@@ -44,7 +44,7 @@
       <div class="cs-shape_1"></div>
       <div class="cs-shape_1"></div>
       <div class="cs-shape_1"></div>
-      <div class="cs-height_150 cs-height_lg_80"></div>
+      <div class="cs-height_50 cs-height_lg_80"></div>
       <div class="container">
         <div class="row align-items-center cs-column_reverse_lg">
           <div class="col-lg-5">
@@ -55,6 +55,7 @@
             <div class="cs-section_heading cs-style1">
               <!-- <h3 class="cs-section_subtitle">Deschooling</h3> -->
               <h2 class="cs-section_title"style="text-align: center;">Deschooling</h2>
+              <br>
               <p style="text-align:justify;"> Deschooling is a program prepared by plus it business park as part of molding a new talented generation in the field of marketing.  that includes courses in Web Development, Android / ios Development, Digital Marketing and Web-3.0 Blockchain. with state-of-the-art training and live project handling It is a certified internship program.</p>
               <p style="text-align:justify;">It's time to break free from the classroom and immerse yourself in an experience like no other, where the future of IT is in your hands.</p>
               <p style="text-align:justify;">Our mentors aren't just educators; they are visionaries who've shaped the IT landscape. They'll guide you in designing your unique tech-focused path and inspire you to push boundaries in this ever-changing field.</p>
@@ -144,7 +145,7 @@
           </ul>
         </div>
       </div>
-      <div class="cs-height_90 cs-height_lg_45"></div>
+      <div class="cs-height_40 cs-height_lg_45"></div>
     </div>
     <div class="container-fluid">
       <div class="container-fluid">
@@ -247,7 +248,7 @@
         </div>
       </div>
     </div>
-    <div class="cs-height_40 cs-height_lg_40"></div>
+    <!-- <div class="cs-height_40 cs-height_lg_40"></div> -->
     <!-- <div class="text-center">
       <a href="portfolio.html" class="cs-text_btn">
         <span>Load More</span>
@@ -257,7 +258,7 @@
       </a>
     </div> -->
     <!-- End Portfolio -->
-    <div class="cs-height_140 cs-height_lg_70"></div>
+    <div class="cs-height_80 cs-height_lg_70"></div>
     <!-- Start Pricing Plan -->
     <section>
       <div class="container">
@@ -1130,7 +1131,7 @@
     <section class="cs-shape_wrap_4 cs-parallax">
       <div class="cs-shape_4 cs-to_up"></div>
       <div class="cs-shape_4 cs-to_right"></div>
-      <div class="cs-height_150 cs-height_lg_80"></div>
+      <div class="cs-height_50 cs-height_lg_80"></div>
       <div class="container">
         <div class="cs-slider cs-style1 cs-gap-24">
           <div class="cs-slider_left">
@@ -1205,10 +1206,10 @@
         </div>
         <!-- .cs-slider -->
       </div>
-      <div class="cs-height_120 cs-height_lg_60"></div>
+      <!-- <div class="cs-height_120 cs-height_lg_60"></div> -->
     </section>
     <!-- End Blog Section -->
-    <div class="cs-height_20 cs-height_lg_20"></div>
+    <!-- <div class="cs-height_20 cs-height_lg_20"></div> -->
     <!-- Start FunFact -->
     
     <!-- End FunFact -->
@@ -1266,7 +1267,7 @@
                 <div id="cs-result"></div>
               </div>
             </form>
-            <div class="cs-height_100 cs-height_lg_60"></div>
+            <div class="cs-height_50 cs-height_lg_60"></div>
           </div>
           <!-- <div class="col-lg-6 offset-xl-1">
             <div class="cs-google_map cs-type1 cs-bg" data-src="assets/img/map_img_1.jpeg">
