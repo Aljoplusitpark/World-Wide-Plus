@@ -61,7 +61,7 @@
        
       </video> -->
       <video  autoplay controls loop muted style="width:1550px; height: auto;">
-        <source src="vd.mp4" type="video/mp4" playsinline > 
+        <source src="assets/img/videos/slider-1.mp4" type="video/mp4" playsinline > 
       </video>
 
   
@@ -1359,7 +1359,7 @@
           <div class="cs-shape_1"></div>
           <div class="cs-shape_1"></div>
           <div class="cs-cta_in">
-            <h2 class="cs-cta_title cs-semi_bold cs-m0"> Let’s disscuse make <br>something <i>cool</i> together </h2>
+            <h2 class="cs-cta_title cs-semi_bold cs-m0"> Let’s Discuss Make <br>Something <i>Cool</i> Together </h2>
             <div class="cs-height_70 cs-height_lg_30"></div>
             <a href="contact.html" class="cs-text_btn wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">
               <span>Apply For Meeting</span>
