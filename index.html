@@ -287,11 +287,11 @@
     <!-- End Header Section -->
     <!-- Start Hero -->
     
-  <div class="cs-hero cs-style1 cs-bg cs-fixed_bg cs-shape_wrap_1" data-src="assets/img/bg2.jpeg" id="home" 
+  <!-- <div class="cs-hero cs-style1 cs-bg cs-fixed_bg cs-shape_wrap_1" data-src="assets/img/bg2.jpeg" id="home" 
     style="height: fit-content; justify-content: center;"> 
      
 
-    <!-- <div class="carousel">
+    <div class="carousel">
       <input type="radio" name="carousel" id="slide-btn-1" class="slide-btn" onclick="setInt();" checked />
       <input type="radio" name="carousel" id="slide-btn-2" class="slide-btn" onclick="setInt();" />
       <input type="radio" name="carousel" id="slide-btn-3" class="slide-btn" onclick="setInt();" />
@@ -311,13 +311,13 @@
         <label for="slide-btn-3"></label>
         
       </div>
-    </div> -->
+    </div> 
     <script type="text/javascript" src="script.js"></script>
     
       <div class="cs-shape_1"></div>
       <div class="cs-shape_1"></div>
       <div class="cs-shape_1"></div>
-      <!-- <div class="container">
+       <div class="container">
         <div class="cs-hero_text">
           
           <h1 class="cs-hero_title wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">  <br> </h1>
@@ -336,6 +336,12 @@
           </div>
         </div>
       </div> -->
+      <div class="cs-hero ">
+        <video autoplay muted loop id="myVideo">
+          <source src="new.mp4" type="video/mp4" /> 
+        </video>
+        <i class="fa-solid fa-volume-off sound"></i>
+      </div>
       <!-- <div class="cs-hero_social_wrap cs-primary_font cs-primary_color">
         <div class="cs-hero_social_title">Follow Us</div>
         <ul class="cs-hero_social_links">
@@ -346,9 +352,9 @@
             <a href="">Twitter</a>
           </li>
         </ul>
-      </div> -->
+      </div>
       <a href="#service" class="cs-down_btn"></a>
-    </div>
+    </div> -->
     <!-- End Hero -->
     <!-- Start FunFact -->
     <!-- <section>
@@ -1807,6 +1813,30 @@
     </div>
     <!-- End Video Popup -->
     <!-- Script -->
+    <script>
+      const sound = document.querySelector(".sound");
+      const video = document.querySelector("#myVideo");
+  
+      sound.addEventListener("click", function(){
+          if(video.muted){
+              video.muted = false;
+              sound.classList.remove("fa-volume-off");
+              sound.classList.add("fa-volume-up");
+          } else {
+              video.muted = true;
+              sound.classList.remove("fa-volume-up");
+              sound.classList.add("fa-volume-off");
+          }
+      });
+  
+      window.addEventListener("scroll", function(){
+          const video = document.querySelector("#myVideo");
+          video.muted = true;
+          sound.classList.remove("fa-volume-up");
+          sound.classList.add("fa-volume-off");
+      });
+  </script>
+
     <script src="assets/js/plugins/jquery-3.6.0.min.js"></script>
     <script src="assets/js/plugins/isotope.pkg.min.js"></script>
     <script src="assets/js/plugins/jquery.slick.min.js"></script>
